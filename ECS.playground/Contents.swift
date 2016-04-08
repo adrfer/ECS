@@ -1,4 +1,3 @@
-import Swift
 protocol Component {
     static var name: String { get } // not necessary (see comments below)
 }
